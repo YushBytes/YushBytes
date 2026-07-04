@@ -45,10 +45,10 @@ print(me.say_hi())
 📅 **2026-07-04 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models** — *Timo Bertram et al.* ([link](http://arxiv.org/abs/2607.02491v1))
+> **Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots** — *Ling Xu et al.* ([link](http://arxiv.org/abs/2607.02501v1))
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
