@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-04 (UTC)**
+📅 **2026-07-05 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots** — *Ling Xu et al.* ([link](http://arxiv.org/abs/2607.02501v1))
+> **OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers** — *Donghyun Lee et al.* ([link](http://arxiv.org/abs/2607.02461v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
