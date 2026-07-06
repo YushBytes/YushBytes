@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-05 (UTC)**
+📅 **2026-07-06 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers** — *Donghyun Lee et al.* ([link](http://arxiv.org/abs/2607.02461v1))
+> **ACID: Action Consistency via Inverse Dynamics for Planning with World Models** — *Gawon Seo et al.* ([link](http://arxiv.org/abs/2607.02403v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
