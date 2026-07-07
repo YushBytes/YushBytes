@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-06 (UTC)**
+📅 **2026-07-07 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **ACID: Action Consistency via Inverse Dynamics for Planning with World Models** — *Gawon Seo et al.* ([link](http://arxiv.org/abs/2607.02403v1))
+> **WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images** — *Xiyu Zhang et al.* ([link](http://arxiv.org/abs/2607.05347v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
