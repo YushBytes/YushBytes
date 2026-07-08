@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-07 (UTC)**
+📅 **2026-07-08 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images** — *Xiyu Zhang et al.* ([link](http://arxiv.org/abs/2607.05347v1))
+> **A Function-Space Dichotomy for Compositional Learning: Exponential Sub-Optimality of the Neural Tangent Kernel** — *Arkaprabha Ganguli et al.* ([link](http://arxiv.org/abs/2607.06382v1))
 
 💬 Quote of the day:
 > Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
