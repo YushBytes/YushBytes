@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-10 (UTC)**
+📅 **2026-07-11 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence** — *Yann Claes et al.* ([link](http://arxiv.org/abs/2607.08641v1))
+> **Do Egocentric Video-Language Models Capture Both Hand- and Object-Centric Cues?** — *Masatoshi Tateno et al.* ([link](http://arxiv.org/abs/2607.08514v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
