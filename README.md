@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-12 (UTC)**
+📅 **2026-07-13 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Wat3R: Underwater 3D Geometry Learning without Annotations** — *Jiangwei Ren et al.* ([link](http://arxiv.org/abs/2607.08772v1))
+> **MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation** — *Runhan Shi et al.* ([link](http://arxiv.org/abs/2607.09142v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
