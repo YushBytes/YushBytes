@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-13 (UTC)**
+📅 **2026-07-14 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation** — *Runhan Shi et al.* ([link](http://arxiv.org/abs/2607.09142v1))
+> **HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS** — *Shambhavi Balamuthu Sampath et al.* ([link](http://arxiv.org/abs/2607.11746v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
