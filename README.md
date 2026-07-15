@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-14 (UTC)**
+📅 **2026-07-15 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS** — *Shambhavi Balamuthu Sampath et al.* ([link](http://arxiv.org/abs/2607.11746v1))
+> **Rank-1 Identity Consensus Predicts Gallery Enrollment in 1:N Face Matching More Accurately than Score Thresholding** — *Gabriella Pangelinan et al.* ([link](http://arxiv.org/abs/2607.12903v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
