@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-15 (UTC)**
+📅 **2026-07-16 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Rank-1 Identity Consensus Predicts Gallery Enrollment in 1:N Face Matching More Accurately than Score Thresholding** — *Gabriella Pangelinan et al.* ([link](http://arxiv.org/abs/2607.12903v1))
+> **A Self-Evolving Agent for Longitudinal Personal Health Management** — *Haoran Li et al.* ([link](http://arxiv.org/abs/2607.13940v1))
 
 💬 Quote of the day:
 > It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
