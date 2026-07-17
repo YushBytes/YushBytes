@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-16 (UTC)**
+📅 **2026-07-17 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **A Self-Evolving Agent for Longitudinal Personal Health Management** — *Haoran Li et al.* ([link](http://arxiv.org/abs/2607.13940v1))
+> **Grokipedia vs Wikipedia: An LLM-Based Audit of Political Neutrality along Ideologies** — *Filippos Vlahos et al.* ([link](http://arxiv.org/abs/2607.15146v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
