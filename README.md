@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-17 (UTC)**
+📅 **2026-07-18 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Grokipedia vs Wikipedia: An LLM-Based Audit of Political Neutrality along Ideologies** — *Filippos Vlahos et al.* ([link](http://arxiv.org/abs/2607.15146v1))
+> **Language Identification via Compositional Data Analysis: A Linear-Time Classifier Based on Log-Ratio Geometry** — *Paul-Andrei Pogăcean et al.* ([link](http://arxiv.org/abs/2607.15238v1))
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
