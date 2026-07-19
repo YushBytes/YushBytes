@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-18 (UTC)**
+📅 **2026-07-19 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Language Identification via Compositional Data Analysis: A Linear-Time Classifier Based on Log-Ratio Geometry** — *Paul-Andrei Pogăcean et al.* ([link](http://arxiv.org/abs/2607.15238v1))
+> **In-Place Tokenizer Expansion for Pre-trained LLMs** — *Jimmy T. H. Smith et al.* ([link](http://arxiv.org/abs/2607.15232v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
