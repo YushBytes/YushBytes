@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-19 (UTC)**
+📅 **2026-07-20 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **In-Place Tokenizer Expansion for Pre-trained LLMs** — *Jimmy T. H. Smith et al.* ([link](http://arxiv.org/abs/2607.15232v1))
+> **Vision-Language Assistant for Emotional Reactions to Risky Driving** — *Harine Choi et al.* ([link](http://arxiv.org/abs/2607.16181v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
