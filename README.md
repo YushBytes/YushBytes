@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-20 (UTC)**
+📅 **2026-07-21 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Vision-Language Assistant for Emotional Reactions to Risky Driving** — *Harine Choi et al.* ([link](http://arxiv.org/abs/2607.16181v1))
+> **O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning** — *Mei Yuan et al.* ([link](http://arxiv.org/abs/2607.18142v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
