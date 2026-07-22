@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-21 (UTC)**
+📅 **2026-07-22 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning** — *Mei Yuan et al.* ([link](http://arxiv.org/abs/2607.18142v1))
+> **GATE-3D: Geometry-Aware Test-time Adaptive Reranking for Open-Set 3D Shape Retrieval** — *Hao Wu et al.* ([link](http://arxiv.org/abs/2607.19111v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
