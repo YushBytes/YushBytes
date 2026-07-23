@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-22 (UTC)**
+📅 **2026-07-23 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **GATE-3D: Geometry-Aware Test-time Adaptive Reranking for Open-Set 3D Shape Retrieval** — *Hao Wu et al.* ([link](http://arxiv.org/abs/2607.19111v1))
+> **Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations** — *Rostyslav Sipakov* ([link](http://arxiv.org/abs/2607.20377v1))
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
