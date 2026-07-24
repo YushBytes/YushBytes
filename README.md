@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-23 (UTC)**
+📅 **2026-07-24 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations** — *Rostyslav Sipakov* ([link](http://arxiv.org/abs/2607.20377v1))
+> **Cautious optimism for deep parameterized quantum circuits** — *Marie Kempkes et al.* ([link](http://arxiv.org/abs/2607.21409v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
