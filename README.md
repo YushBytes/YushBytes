@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-24 (UTC)**
+📅 **2026-07-25 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Cautious optimism for deep parameterized quantum circuits** — *Marie Kempkes et al.* ([link](http://arxiv.org/abs/2607.21409v1))
+> **Visual Contrastive Self-Distillation** — *Yijun Liang et al.* ([link](http://arxiv.org/abs/2607.21556v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
