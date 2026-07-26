@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-25 (UTC)**
+📅 **2026-07-26 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Visual Contrastive Self-Distillation** — *Yijun Liang et al.* ([link](http://arxiv.org/abs/2607.21556v1))
+> **An Evaluation Framework for Structured Audio Captions Validated by Controlled Perturbations** — *Liang-Yuan Wu et al.* ([link](http://arxiv.org/abs/2607.21424v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
