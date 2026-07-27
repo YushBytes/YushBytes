@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-26 (UTC)**
+📅 **2026-07-27 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **An Evaluation Framework for Structured Audio Captions Validated by Controlled Perturbations** — *Liang-Yuan Wu et al.* ([link](http://arxiv.org/abs/2607.21424v1))
+> Couldn't reach arXiv today (The read operation timed out) — check back tomorrow.
 
 💬 Quote of the day:
 > In God we trust, all others bring data. — W. Edwards Deming
