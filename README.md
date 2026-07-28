@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-27 (UTC)**
+📅 **2026-07-28 (UTC)**
 
 📄 Today's random paper from arXiv:
-> Couldn't reach arXiv today (The read operation timed out) — check back tomorrow.
+> **MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale** — *Huy Huynh et al.* ([link](http://arxiv.org/abs/2607.24729v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
