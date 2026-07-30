@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-29 (UTC)**
+📅 **2026-07-30 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Toward Standardized Cross-Vendor Agent Tool Trust Management in Autonomous Networks** — *Ravi Kant Sharma et al.* ([link](http://arxiv.org/abs/2607.25914v1))
+> **Single-Beat Cuffless Blood Pressure Estimation Using Ear-PPG and ECG with a Lightweight Hybrid Learning Framework** — *Kindeep K. Dhatt et al.* ([link](http://arxiv.org/abs/2607.27076v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
