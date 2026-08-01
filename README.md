@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-07-31 (UTC)**
+📅 **2026-08-01 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors** — *Neelam Akula et al.* ([link](http://arxiv.org/abs/2607.28525v1))
+> **LeanCSP: A Framework for Certifying Constraint Reformulation and Solving in Lean** — *Pablo Manrique et al.* ([link](http://arxiv.org/abs/2607.28459v1))
 
 💬 Quote of the day:
 > It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
