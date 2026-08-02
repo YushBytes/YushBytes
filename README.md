@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-01 (UTC)**
+📅 **2026-08-02 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **LeanCSP: A Framework for Certifying Constraint Reformulation and Solving in Lean** — *Pablo Manrique et al.* ([link](http://arxiv.org/abs/2607.28459v1))
+> **MarkushGlyph and OCSRGlyph: Improved Chemical Structure Recognition** — *Alex Andonian et al.* ([link](http://arxiv.org/abs/2607.28532v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
