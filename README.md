@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-02 (UTC)**
+📅 **2026-08-03 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **MarkushGlyph and OCSRGlyph: Improved Chemical Structure Recognition** — *Alex Andonian et al.* ([link](http://arxiv.org/abs/2607.28532v1))
+> **Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks** — *Rupak Sarkar et al.* ([link](http://arxiv.org/abs/2607.29585v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
