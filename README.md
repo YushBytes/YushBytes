@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-03 (UTC)**
+📅 **2026-08-04 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks** — *Rupak Sarkar et al.* ([link](http://arxiv.org/abs/2607.29585v1))
+> **Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce** — *Shicheng Fan et al.* ([link](http://arxiv.org/abs/2608.02441v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
