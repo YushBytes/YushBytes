@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-04 (UTC)**
+📅 **2026-08-05 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce** — *Shicheng Fan et al.* ([link](http://arxiv.org/abs/2608.02441v1))
+> **StreamDAM: Presence-Aware Memory for Real-Time Streaming Video Object Segmentation** — *Xiang Chen* ([link](http://arxiv.org/abs/2608.03912v1))
 
 💬 Quote of the day:
 > It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
