@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-06 (UTC)**
+📅 **2026-08-07 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains** — *Ayoub Kirouane et al.* ([link](http://arxiv.org/abs/2608.05138v1))
+> **An Optimal Agnostic PAC Algorithm** — *Markus Engelund Mathiasen et al.* ([link](http://arxiv.org/abs/2608.06363v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
