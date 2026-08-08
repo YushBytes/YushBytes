@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-07 (UTC)**
+📅 **2026-08-08 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **An Optimal Agnostic PAC Algorithm** — *Markus Engelund Mathiasen et al.* ([link](http://arxiv.org/abs/2608.06363v1))
+> **RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer** — *Xinye Wang et al.* ([link](http://arxiv.org/abs/2608.06347v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
