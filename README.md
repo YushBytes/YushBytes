@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-08 (UTC)**
+📅 **2026-08-09 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer** — *Xinye Wang et al.* ([link](http://arxiv.org/abs/2608.06347v1))
+> **Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning** — *Farzana Nasrin* ([link](http://arxiv.org/abs/2608.06276v1))
 
 💬 Quote of the day:
 > A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
