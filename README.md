@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-10 (UTC)**
+📅 **2026-08-11 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting** — *Md Tarek Hassan et al.* ([link](http://arxiv.org/abs/2608.07444v1))
+> **SR-OPSD: Self-Referenced On-Policy Self-Distillation** — *Zhuo Sun et al.* ([link](http://arxiv.org/abs/2608.09745v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
