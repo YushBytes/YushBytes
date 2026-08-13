@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-12 (UTC)**
+📅 **2026-08-13 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Policy Convergence and Divergence Across National and Within Regional AI Strategies: A Policy Design Element Analysis** — *Benjamin Faveri et al.* ([link](http://arxiv.org/abs/2608.11006v1))
+> **Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment** — *Jean-Pierre Busch et al.* ([link](http://arxiv.org/abs/2608.12198v1))
 
 💬 Quote of the day:
 > The best way to predict the future is to invent it. — Alan Kay
