@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-13 (UTC)**
+📅 **2026-08-14 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment** — *Jean-Pierre Busch et al.* ([link](http://arxiv.org/abs/2608.12198v1))
+> **Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ** — *Zongyun Zhang et al.* ([link](http://arxiv.org/abs/2608.13441v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
