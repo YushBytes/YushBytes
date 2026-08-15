@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-14 (UTC)**
+📅 **2026-08-15 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ** — *Zongyun Zhang et al.* ([link](http://arxiv.org/abs/2608.13441v1))
+> **Concept Drift Detection and Adaptive Retraining of Malware Classification Models** — *Christofer Washington Berruz Chungata et al.* ([link](http://arxiv.org/abs/2608.13465v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
