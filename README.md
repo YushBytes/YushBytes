@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-15 (UTC)**
+📅 **2026-08-16 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Concept Drift Detection and Adaptive Retraining of Malware Classification Models** — *Christofer Washington Berruz Chungata et al.* ([link](http://arxiv.org/abs/2608.13465v1))
+> **CROP: Task Relevance via Counterfactuals for Selective On-Policy Distillation** — *Enhan Li et al.* ([link](http://arxiv.org/abs/2608.13387v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
