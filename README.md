@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-16 (UTC)**
+📅 **2026-08-17 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **CROP: Task Relevance via Counterfactuals for Selective On-Policy Distillation** — *Enhan Li et al.* ([link](http://arxiv.org/abs/2608.13387v1))
+> **Intelligent Detection of Mechanical, Electrical, and Plumbing (MEP) Metrics Based on 2D Floor Plans** — *Tarandeep Singh Mandhiratta et al.* ([link](http://arxiv.org/abs/2608.14317v1))
 
 💬 Quote of the day:
 > The best way to predict the future is to invent it. — Alan Kay
