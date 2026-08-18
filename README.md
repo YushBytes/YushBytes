@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-17 (UTC)**
+📅 **2026-08-18 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Intelligent Detection of Mechanical, Electrical, and Plumbing (MEP) Metrics Based on 2D Floor Plans** — *Tarandeep Singh Mandhiratta et al.* ([link](http://arxiv.org/abs/2608.14317v1))
+> **STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment** — *Yongqi Tong et al.* ([link](http://arxiv.org/abs/2608.16553v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
