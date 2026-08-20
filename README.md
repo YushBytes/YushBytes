@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-19 (UTC)**
+📅 **2026-08-20 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **SIGMA: SHAP-Guided Implicit-Trajectory Generation for Metadata-Free LLM-Based AutoFE** — *Xuan Zheng et al.* ([link](http://arxiv.org/abs/2608.17948v1))
+> **Geometric Iterative Retrieval for Neural Audio Codec Resynthesis** — *Leo Schmidt-Traub et al.* ([link](http://arxiv.org/abs/2608.19141v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
