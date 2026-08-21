@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-20 (UTC)**
+📅 **2026-08-21 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Geometric Iterative Retrieval for Neural Audio Codec Resynthesis** — *Leo Schmidt-Traub et al.* ([link](http://arxiv.org/abs/2608.19141v1))
+> **Feature Evolution and Migration during Vision Transformer Training** — *Joonas Järve et al.* ([link](http://arxiv.org/abs/2608.20134v1))
 
 💬 Quote of the day:
 > The best way to predict the future is to invent it. — Alan Kay
