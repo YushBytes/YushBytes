@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-21 (UTC)**
+📅 **2026-08-22 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Feature Evolution and Migration during Vision Transformer Training** — *Joonas Järve et al.* ([link](http://arxiv.org/abs/2608.20134v1))
+> **Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents** — *Yiyang Feng et al.* ([link](http://arxiv.org/abs/2608.20274v1))
 
 💬 Quote of the day:
 > The best way to predict the future is to invent it. — Alan Kay
