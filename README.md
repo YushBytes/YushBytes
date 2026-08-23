@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-22 (UTC)**
+📅 **2026-08-23 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents** — *Yiyang Feng et al.* ([link](http://arxiv.org/abs/2608.20274v1))
+> **Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders** — *Yash Kulkarni et al.* ([link](http://arxiv.org/abs/2608.20280v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
