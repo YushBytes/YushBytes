@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-23 (UTC)**
+📅 **2026-08-24 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders** — *Yash Kulkarni et al.* ([link](http://arxiv.org/abs/2608.20280v1))
+> **Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning** — *Haonan Jia et al.* ([link](http://arxiv.org/abs/2608.21305v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
