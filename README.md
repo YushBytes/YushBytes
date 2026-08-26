@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-25 (UTC)**
+📅 **2026-08-26 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **How to Train a Critic Stably and Efficiently** — *Penghui Qi et al.* ([link](http://arxiv.org/abs/2608.23566v1))
+> **Parameter-Level Attribution of Symmetry in Trained Networks Though Parameter-Wise Functional Sensitivity** — *Alan Muriithi et al.* ([link](http://arxiv.org/abs/2608.24700v1))
 
 💬 Quote of the day:
 > It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
