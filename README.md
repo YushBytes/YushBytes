@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-26 (UTC)**
+📅 **2026-08-27 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Parameter-Level Attribution of Symmetry in Trained Networks Though Parameter-Wise Functional Sensitivity** — *Alan Muriithi et al.* ([link](http://arxiv.org/abs/2608.24700v1))
+> **Unveiling Spectral Mechanisms in Training-Free LLM Text Detection** — *Haitong Luo et al.* ([link](http://arxiv.org/abs/2608.25944v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
