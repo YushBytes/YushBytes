@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-27 (UTC)**
+📅 **2026-08-28 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Unveiling Spectral Mechanisms in Training-Free LLM Text Detection** — *Haitong Luo et al.* ([link](http://arxiv.org/abs/2608.25944v1))
+> **Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO** — *Yunpeng Ba et al.* ([link](http://arxiv.org/abs/2608.27351v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
