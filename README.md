@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-28 (UTC)**
+📅 **2026-08-29 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO** — *Yunpeng Ba et al.* ([link](http://arxiv.org/abs/2608.27351v1))
+> **TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution** — *Tommaso Bendinelli et al.* ([link](http://arxiv.org/abs/2608.27182v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
