@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-29 (UTC)**
+📅 **2026-08-30 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution** — *Tommaso Bendinelli et al.* ([link](http://arxiv.org/abs/2608.27182v1))
+> **R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models** — *Qiwen Gu et al.* ([link](http://arxiv.org/abs/2608.27328v1))
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
