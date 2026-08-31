@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-30 (UTC)**
+📅 **2026-08-31 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models** — *Qiwen Gu et al.* ([link](http://arxiv.org/abs/2608.27328v1))
+> **Video Generative Models as Geometry Learner** — *Haosen Yang et al.* ([link](http://arxiv.org/abs/2608.28549v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
