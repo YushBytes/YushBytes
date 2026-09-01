@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-08-31 (UTC)**
+📅 **2026-09-01 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Video Generative Models as Geometry Learner** — *Haosen Yang et al.* ([link](http://arxiv.org/abs/2608.28549v1))
+> **Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring** — *Vanodhya G. Warnasooriya et al.* ([link](http://arxiv.org/abs/2608.31074v1))
 
 💬 Quote of the day:
 > Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
