@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-01 (UTC)**
+📅 **2026-09-02 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring** — *Vanodhya G. Warnasooriya et al.* ([link](http://arxiv.org/abs/2608.31074v1))
+> **H3-World: Turning Language Understanding into World Control** — *Danze Chen et al.* ([link](http://arxiv.org/abs/2609.01560v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
