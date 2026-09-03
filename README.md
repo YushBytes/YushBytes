@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-02 (UTC)**
+📅 **2026-09-03 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **H3-World: Turning Language Understanding into World Control** — *Danze Chen et al.* ([link](http://arxiv.org/abs/2609.01560v1))
+> **From Detection to Localization: A Unified Forensics Framework for Fully Synthetic and Tampered Images** — *Annalisa Gallina et al.* ([link](http://arxiv.org/abs/2609.02640v1))
 
 💬 Quote of the day:
 > It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
