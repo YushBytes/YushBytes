@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-03 (UTC)**
+📅 **2026-09-04 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **From Detection to Localization: A Unified Forensics Framework for Fully Synthetic and Tampered Images** — *Annalisa Gallina et al.* ([link](http://arxiv.org/abs/2609.02640v1))
+> **Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable** — *Shai Vardi et al.* ([link](http://arxiv.org/abs/2609.04127v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
