@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-04 (UTC)**
+📅 **2026-09-05 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable** — *Shai Vardi et al.* ([link](http://arxiv.org/abs/2609.04127v1))
+> **Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO** — *Hyun Bin Park et al.* ([link](http://arxiv.org/abs/2609.03941v1))
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
