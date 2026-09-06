@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-05 (UTC)**
+📅 **2026-09-06 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO** — *Hyun Bin Park et al.* ([link](http://arxiv.org/abs/2609.03941v1))
+> **Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning** — *Kevin Du et al.* ([link](http://arxiv.org/abs/2609.04194v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
