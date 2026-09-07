@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-06 (UTC)**
+📅 **2026-09-07 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning** — *Kevin Du et al.* ([link](http://arxiv.org/abs/2609.04194v1))
+> **BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors** — *Vincent Leroy et al.* ([link](http://arxiv.org/abs/2609.05210v1))
 
 💬 Quote of the day:
 > The best way to predict the future is to invent it. — Alan Kay
