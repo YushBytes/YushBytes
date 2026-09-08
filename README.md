@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-07 (UTC)**
+📅 **2026-09-08 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors** — *Vincent Leroy et al.* ([link](http://arxiv.org/abs/2609.05210v1))
+> **Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference** — *Tim Wientzek* ([link](http://arxiv.org/abs/2609.05262v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
