@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-08 (UTC)**
+📅 **2026-09-09 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference** — *Tim Wientzek* ([link](http://arxiv.org/abs/2609.05262v1))
+> **When Models Defer to Wrong Answers: A Robustness Audit of Source-Attributed Cues in Multiple-Choice QA** — *Manikandan Ravikiran et al.* ([link](http://arxiv.org/abs/2609.08934v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
