@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-09 (UTC)**
+📅 **2026-09-10 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **When Models Defer to Wrong Answers: A Robustness Audit of Source-Attributed Cues in Multiple-Choice QA** — *Manikandan Ravikiran et al.* ([link](http://arxiv.org/abs/2609.08934v1))
+> **GANDR: Claim Auditing for Verifiable Legal Answer Generation** — *Chen Qian et al.* ([link](http://arxiv.org/abs/2609.10293v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
