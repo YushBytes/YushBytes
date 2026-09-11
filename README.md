@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-10 (UTC)**
+📅 **2026-09-11 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **GANDR: Claim Auditing for Verifiable Legal Answer Generation** — *Chen Qian et al.* ([link](http://arxiv.org/abs/2609.10293v1))
+> Couldn't reach arXiv today (HTTP Error 429: Unknown Error) — check back tomorrow.
 
 💬 Quote of the day:
 > Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
