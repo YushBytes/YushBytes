@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-12 (UTC)**
+📅 **2026-09-13 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **General Quantification of Covariate and Concept Shifts** — *Hongbo Chen et al.* ([link](http://arxiv.org/abs/2609.11918v1))
+> Couldn't reach arXiv today (HTTP Error 429: Unknown Error) — check back tomorrow.
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
