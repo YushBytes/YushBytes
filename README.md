@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-15 (UTC)**
+📅 **2026-09-16 (UTC)**
 
 📄 Today's random paper from arXiv:
-> Couldn't reach arXiv today (The read operation timed out) — check back tomorrow.
+> **LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence** — *Xingxuan Zhang et al.* ([link](http://arxiv.org/abs/2609.17488v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
