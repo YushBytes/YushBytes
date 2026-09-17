@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-16 (UTC)**
+📅 **2026-09-17 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence** — *Xingxuan Zhang et al.* ([link](http://arxiv.org/abs/2609.17488v1))
+> Couldn't reach arXiv today (HTTP Error 406: Not Acceptable) — check back tomorrow.
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
