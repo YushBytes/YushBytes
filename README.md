@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-17 (UTC)**
+📅 **2026-09-18 (UTC)**
 
 📄 Today's random paper from arXiv:
 > Couldn't reach arXiv today (HTTP Error 406: Not Acceptable) — check back tomorrow.
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
