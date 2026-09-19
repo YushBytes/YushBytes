@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-18 (UTC)**
+📅 **2026-09-19 (UTC)**
 
 📄 Today's random paper from arXiv:
 > Couldn't reach arXiv today (HTTP Error 406: Not Acceptable) — check back tomorrow.
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
