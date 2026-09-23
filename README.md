@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-22 (UTC)**
+📅 **2026-09-23 (UTC)**
 
 📄 Today's random paper from arXiv:
-> Couldn't reach arXiv today (HTTP Error 406: Not Acceptable) — check back tomorrow.
+> **HySparse2: Hybrid Sparse Attention with Two-Level KV Sharing** — *Jianyu Wei et al.* ([link](http://arxiv.org/abs/2609.26368v1))
 
 💬 Quote of the day:
 > A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
