@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-24 (UTC)**
+📅 **2026-09-25 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Learning Collective Dynamics with Differentiable Gaussian Representations** — *Jianxiang Ma et al.* ([link](http://arxiv.org/abs/2609.28405v1))
+> Couldn't reach arXiv today (HTTP Error 406: Not Acceptable) — check back tomorrow.
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
