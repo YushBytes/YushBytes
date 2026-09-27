@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-26 (UTC)**
+📅 **2026-09-27 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline** — *Andre Youssefi et al.* ([link](http://arxiv.org/abs/2609.30104v1))
+> Couldn't reach arXiv today (HTTP Error 406: Not Acceptable) — check back tomorrow.
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
