@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-09-30 (UTC)**
+📅 **2026-10-01 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **The Unequal Influence of Bad Advice: Using Training Data Attribution to Modulate Emergent Misalignment** — *Gonçalo Paulo et al.* ([link](http://arxiv.org/abs/2609.37914v1))
+> **Scaling Laws for Looped Mixture of Experts** — *Yanbei Chen et al.* ([link](http://arxiv.org/abs/2609.40316v1))
 
 💬 Quote of the day:
 > In God we trust, all others bring data. — W. Edwards Deming
