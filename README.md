@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-01 (UTC)**
+📅 **2026-10-02 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Scaling Laws for Looped Mixture of Experts** — *Yanbei Chen et al.* ([link](http://arxiv.org/abs/2609.40316v1))
+> **Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks** — *Hao Wang et al.* ([link](http://arxiv.org/abs/2610.02001v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
