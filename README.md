@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-02 (UTC)**
+📅 **2026-10-03 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks** — *Hao Wang et al.* ([link](http://arxiv.org/abs/2610.02001v1))
+> **SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation** — *Tianjiao Yu et al.* ([link](http://arxiv.org/abs/2610.02201v1))
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
