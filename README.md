@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-04 (UTC)**
+📅 **2026-10-05 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research** — *Sohyeon Kim et al.* ([link](http://arxiv.org/abs/2610.02202v1))
+> **Collective Bias Mitigation via Model Routing and Collaboration** — *Mingzhe Du et al.* ([link](http://arxiv.org/abs/2610.03240v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
