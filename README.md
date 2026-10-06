@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-05 (UTC)**
+📅 **2026-10-06 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Collective Bias Mitigation via Model Routing and Collaboration** — *Mingzhe Du et al.* ([link](http://arxiv.org/abs/2610.03240v1))
+> **Towards Looped Models Done Right, Part II: Rethinking at Fixed Points** — *Benhao Huang et al.* ([link](http://arxiv.org/abs/2610.06833v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
