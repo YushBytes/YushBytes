@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-07 (UTC)**
+📅 **2026-10-08 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Probabilistic Counterfactual Inference for Discrete Outcomes in Gaussian-Process Causal Models** — *Juliette Sinnott et al.* ([link](http://arxiv.org/abs/2610.08689v1))
+> **Which Rollout Taught It That? BehaviorTrace and the Limits of Training-Data Attribution in Online RL** — *Amit Nautiyal* ([link](http://arxiv.org/abs/2610.10422v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
