@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-08 (UTC)**
+📅 **2026-10-09 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Which Rollout Taught It That? BehaviorTrace and the Limits of Training-Data Attribution in Online RL** — *Amit Nautiyal* ([link](http://arxiv.org/abs/2610.10422v1))
+> **Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict** — *Kaiser Sun et al.* ([link](http://arxiv.org/abs/2610.12360v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
