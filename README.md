@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-09 (UTC)**
+📅 **2026-10-10 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict** — *Kaiser Sun et al.* ([link](http://arxiv.org/abs/2610.12360v1))
+> **VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation** — *Boyao Han et al.* ([link](http://arxiv.org/abs/2610.12451v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
