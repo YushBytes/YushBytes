@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-10 (UTC)**
+📅 **2026-10-11 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation** — *Boyao Han et al.* ([link](http://arxiv.org/abs/2610.12451v1))
+> **Learning Kilometer-Scale Weather Prediction with Global-Regional Alignment** — *Guowen Li et al.* ([link](http://arxiv.org/abs/2610.12401v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
