@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-11 (UTC)**
+📅 **2026-10-12 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Learning Kilometer-Scale Weather Prediction with Global-Regional Alignment** — *Guowen Li et al.* ([link](http://arxiv.org/abs/2610.12401v1))
+> **X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems** — *Yeonsung Jung et al.* ([link](http://arxiv.org/abs/2610.13886v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
