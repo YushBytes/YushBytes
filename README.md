@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-13 (UTC)**
+📅 **2026-10-14 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators** — *Xuanlang Dai et al.* ([link](http://arxiv.org/abs/2610.13944v1))
+> **BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems** — *Xiaoguang Guo et al.* ([link](http://arxiv.org/abs/2610.18780v1))
 
 💬 Quote of the day:
 > In God we trust, all others bring data. — W. Edwards Deming
