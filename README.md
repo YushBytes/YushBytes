@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-14 (UTC)**
+📅 **2026-10-15 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems** — *Xiaoguang Guo et al.* ([link](http://arxiv.org/abs/2610.18780v1))
+> **SafeAdapt-Poker: Counterfactual Risk Calibration for Budgeted Adaptation under Opponent Shift** — *Miaobo Hu et al.* ([link](http://arxiv.org/abs/2610.20473v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
