@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-16 (UTC)**
+📅 **2026-10-17 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **GeoState: Learning View-Decoupled Geometry States for 3D World Modeling** — *Hongchang Liu et al.* ([link](http://arxiv.org/abs/2610.22343v1))
+> **Grid-Bench: Can LLMs Predict How Discrete Worlds Change?** — *Zixiang Xu et al.* ([link](http://arxiv.org/abs/2610.22312v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
