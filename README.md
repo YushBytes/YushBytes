@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-17 (UTC)**
+📅 **2026-10-18 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Grid-Bench: Can LLMs Predict How Discrete Worlds Change?** — *Zixiang Xu et al.* ([link](http://arxiv.org/abs/2610.22312v1))
+> **Training-Free On-Policy Distillation** — *Bangji Yang et al.* ([link](http://arxiv.org/abs/2610.22236v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
