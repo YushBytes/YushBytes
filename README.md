@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-18 (UTC)**
+📅 **2026-10-19 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Training-Free On-Policy Distillation** — *Bangji Yang et al.* ([link](http://arxiv.org/abs/2610.22236v1))
+> **MARS: Memory-Aware Routing for Session-Level LLM Assistants** — *Minghan Wang et al.* ([link](http://arxiv.org/abs/2610.23583v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
