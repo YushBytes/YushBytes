@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-22 (UTC)**
+📅 **2026-10-23 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Revealing Hidden Failure Modes in Chest X-ray Classification via Spectral Domain Analysis** — *Samuel Halimi et al.* ([link](http://arxiv.org/abs/2610.29830v1))
+> **Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning** — *Zeropy Surio et al.* ([link](http://arxiv.org/abs/2610.31544v1))
 
 💬 Quote of the day:
 > The best way to predict the future is to invent it. — Alan Kay
