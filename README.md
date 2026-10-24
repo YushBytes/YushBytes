@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-23 (UTC)**
+📅 **2026-10-24 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning** — *Zeropy Surio et al.* ([link](http://arxiv.org/abs/2610.31544v1))
+> **A Fix for Softmax and Cross-Entropy** — *Jonathan T. Barron et al.* ([link](http://arxiv.org/abs/2610.31642v1))
 
 💬 Quote of the day:
 > The best way to predict the future is to invent it. — Alan Kay
