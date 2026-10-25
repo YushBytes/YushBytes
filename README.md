@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-24 (UTC)**
+📅 **2026-10-25 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **A Fix for Softmax and Cross-Entropy** — *Jonathan T. Barron et al.* ([link](http://arxiv.org/abs/2610.31642v1))
+> **Beyond Best-of-$k$: Prior-Consistent DAPS for Ambiguous Nonlinear Inverse Problems** — *Merve Kocabas et al.* ([link](http://arxiv.org/abs/2610.31592v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
