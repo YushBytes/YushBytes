@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-25 (UTC)**
+📅 **2026-10-26 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Beyond Best-of-$k$: Prior-Consistent DAPS for Ambiguous Nonlinear Inverse Problems** — *Merve Kocabas et al.* ([link](http://arxiv.org/abs/2610.31592v1))
+> **On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models** — *Leon Sick et al.* ([link](http://arxiv.org/abs/2610.32770v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
