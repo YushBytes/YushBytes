@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-26 (UTC)**
+📅 **2026-10-27 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models** — *Leon Sick et al.* ([link](http://arxiv.org/abs/2610.32770v1))
+> **Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR** — *Yuchen Zhang et al.* ([link](http://arxiv.org/abs/2610.35846v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
