@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-27 (UTC)**
+📅 **2026-10-28 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR** — *Yuchen Zhang et al.* ([link](http://arxiv.org/abs/2610.35846v1))
+> **When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies** — *Anukriti Singh et al.* ([link](http://arxiv.org/abs/2610.37547v1))
 
 💬 Quote of the day:
 > A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
