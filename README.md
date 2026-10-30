@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-29 (UTC)**
+📅 **2026-10-30 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation** — *Yuxi Huang et al.* ([link](http://arxiv.org/abs/2610.37584v1))
+> **Collaborative AI agents for autonomous experimental research with solid-state quantum spins** — *El Mustapha Mansouri et al.* ([link](http://arxiv.org/abs/2610.40589v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
