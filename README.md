@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-10-31 (UTC)**
+📅 **2026-11-01 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Multi-View MoE: Letting Every Router Shape Expert Computation** — *Zelin Zhao et al.* ([link](http://arxiv.org/abs/2610.40577v1))
+> **Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models** — *Anuj Diwan et al.* ([link](http://arxiv.org/abs/2610.40505v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
