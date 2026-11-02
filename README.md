@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-01 (UTC)**
+📅 **2026-11-02 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models** — *Anuj Diwan et al.* ([link](http://arxiv.org/abs/2610.40505v1))
+> **DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention** — *Zhangchi Feng et al.* ([link](http://arxiv.org/abs/2610.41994v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
