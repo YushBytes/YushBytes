@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-02 (UTC)**
+📅 **2026-11-03 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention** — *Zhangchi Feng et al.* ([link](http://arxiv.org/abs/2610.41994v1))
+> **VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations** — *Avni Mittal et al.* ([link](http://arxiv.org/abs/2611.03518v1))
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
