@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-03 (UTC)**
+📅 **2026-11-04 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations** — *Avni Mittal et al.* ([link](http://arxiv.org/abs/2611.03518v1))
+> **RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On** — *Seungyong Lee et al.* ([link](http://arxiv.org/abs/2611.05163v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
