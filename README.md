@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-05 (UTC)**
+📅 **2026-11-06 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models** — *Lele Yang et al.* ([link](http://arxiv.org/abs/2611.06835v1))
+> **Module-Aware Optimization for Graph Neural Networks** — *Guy Hadad et al.* ([link](http://arxiv.org/abs/2611.08379v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
