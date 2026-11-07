@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-06 (UTC)**
+📅 **2026-11-07 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Module-Aware Optimization for Graph Neural Networks** — *Guy Hadad et al.* ([link](http://arxiv.org/abs/2611.08379v1))
+> **RouteAlign: Aligning Task Requirements with Model Profiles for LLM Service Selection** — *Jihao Zhao et al.* ([link](http://arxiv.org/abs/2611.08162v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
