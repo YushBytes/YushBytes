@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-07 (UTC)**
+📅 **2026-11-08 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **RouteAlign: Aligning Task Requirements with Model Profiles for LLM Service Selection** — *Jihao Zhao et al.* ([link](http://arxiv.org/abs/2611.08162v1))
+> **Unifying Central Flow, Rod Flow, and the Edge Coupling** — *Eric Regis et al.* ([link](http://arxiv.org/abs/2611.08358v1))
 
 💬 Quote of the day:
 > A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
