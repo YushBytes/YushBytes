@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-08 (UTC)**
+📅 **2026-11-09 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Unifying Central Flow, Rod Flow, and the Edge Coupling** — *Eric Regis et al.* ([link](http://arxiv.org/abs/2611.08358v1))
+> **On Agentic Manipulation Policies** — *Chen Chen et al.* ([link](http://arxiv.org/abs/2611.09892v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
