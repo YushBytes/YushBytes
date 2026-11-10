@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-09 (UTC)**
+📅 **2026-11-10 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **On Agentic Manipulation Policies** — *Chen Chen et al.* ([link](http://arxiv.org/abs/2611.09892v1))
+> Couldn't reach arXiv today (HTTP Error 429: Unknown Error) — check back tomorrow.
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
