@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-11 (UTC)**
+📅 **2026-11-12 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **An AI Assistant for Automating Anti-Corruption Expertise of Draft Legislation Based on the TRACE Framework** — *Serhii Zabolotnii et al.* ([link](http://arxiv.org/abs/2611.14244v1))
+> **Stagewise and interpretable emergence of inside-outside computation in Transformer-based language models** — *Jack T. Parley* ([link](http://arxiv.org/abs/2611.14221v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
