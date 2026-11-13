@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-12 (UTC)**
+📅 **2026-11-13 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Stagewise and interpretable emergence of inside-outside computation in Transformer-based language models** — *Jack T. Parley* ([link](http://arxiv.org/abs/2611.14221v1))
+> **Combinatorial Bernoulli Factories with Polynomially Many Coins** — *Renato Paes Leme et al.* ([link](http://arxiv.org/abs/2611.17223v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
 
 <!--END_SECTION:live-->
 
