@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-13 (UTC)**
+📅 **2026-11-14 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Combinatorial Bernoulli Factories with Polynomially Many Coins** — *Renato Paes Leme et al.* ([link](http://arxiv.org/abs/2611.17223v1))
+> **HiVE-VQA: Hierarchical Interaction via Volumetric Embedding for Video Quality Assessment** — *Robbie Hamilton et al.* ([link](http://arxiv.org/abs/2611.17146v1))
 
 💬 Quote of the day:
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. — Edsger Dijkstra
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
