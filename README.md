@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-14 (UTC)**
+📅 **2026-11-15 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **HiVE-VQA: Hierarchical Interaction via Volumetric Embedding for Video Quality Assessment** — *Robbie Hamilton et al.* ([link](http://arxiv.org/abs/2611.17146v1))
+> **AgentSSL: Can MLE Agents Leverage Unlabeled Data?** — *Ethan Lin et al.* ([link](http://arxiv.org/abs/2611.17323v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
