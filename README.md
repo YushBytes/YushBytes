@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-15 (UTC)**
+📅 **2026-11-16 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **AgentSSL: Can MLE Agents Leverage Unlabeled Data?** — *Ethan Lin et al.* ([link](http://arxiv.org/abs/2611.17323v1))
+> **Learning Word-Level Explanations of Text Reuse in Latin Literature with Little Annotation** — *Julian Schelb et al.* ([link](http://arxiv.org/abs/2611.18319v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
