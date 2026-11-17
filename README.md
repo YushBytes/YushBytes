@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-16 (UTC)**
+📅 **2026-11-17 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Learning Word-Level Explanations of Text Reuse in Latin Literature with Little Annotation** — *Julian Schelb et al.* ([link](http://arxiv.org/abs/2611.18319v1))
+> **LynnReal-Hand: Unlocking World Interaction with Hand Control** — *Shaohao Rui et al.* ([link](http://arxiv.org/abs/2611.21479v1))
 
 💬 Quote of the day:
-> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
