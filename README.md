@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-17 (UTC)**
+📅 **2026-11-18 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **LynnReal-Hand: Unlocking World Interaction with Hand Control** — *Shaohao Rui et al.* ([link](http://arxiv.org/abs/2611.21479v1))
+> **MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study** — *Nikit Srivastava et al.* ([link](http://arxiv.org/abs/2611.23158v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> The best way to predict the future is to invent it. — Alan Kay
 
 <!--END_SECTION:live-->
 
