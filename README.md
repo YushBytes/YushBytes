@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-18 (UTC)**
+📅 **2026-11-19 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study** — *Nikit Srivastava et al.* ([link](http://arxiv.org/abs/2611.23158v1))
+> **Synthesizing hyperspectral Data using generative Models to train spectral Unmixing Methods for low-cost Crop Residue Cover Mapping** — *Ege Artan et al.* ([link](http://arxiv.org/abs/2611.24827v1))
 
 💬 Quote of the day:
 > The best way to predict the future is to invent it. — Alan Kay
