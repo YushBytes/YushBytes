@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-19 (UTC)**
+📅 **2026-11-20 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Synthesizing hyperspectral Data using generative Models to train spectral Unmixing Methods for low-cost Crop Residue Cover Mapping** — *Ege Artan et al.* ([link](http://arxiv.org/abs/2611.24827v1))
+> **Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem** — *Oriol Alàs et al.* ([link](http://arxiv.org/abs/2611.26398v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
