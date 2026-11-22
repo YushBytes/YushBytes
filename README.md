@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-21 (UTC)**
+📅 **2026-11-22 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Active Feature Acquisition by Distilling an Oracle Teacher** — *Yang Meng et al.* ([link](http://arxiv.org/abs/2611.26598v1))
+> **RL Post-Training in Diffusion Transformers Is Activation Steering** — *Tuna Han Salih Meral et al.* ([link](http://arxiv.org/abs/2611.26627v1))
 
 💬 Quote of the day:
-> The best way to predict the future is to invent it. — Alan Kay
+> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
 
 <!--END_SECTION:live-->
 
