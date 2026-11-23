@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-22 (UTC)**
+📅 **2026-11-23 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **RL Post-Training in Diffusion Transformers Is Activation Steering** — *Tuna Han Salih Meral et al.* ([link](http://arxiv.org/abs/2611.26627v1))
+> **Non-penetrating World Models** — *Yuhang Dai et al.* ([link](http://arxiv.org/abs/2611.27963v1))
 
 💬 Quote of the day:
-> A model is a lie that helps you see the truth. — Howard Skipper (paraphrased)
+> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
 
 <!--END_SECTION:live-->
 
