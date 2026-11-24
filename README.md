@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-23 (UTC)**
+📅 **2026-11-24 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Non-penetrating World Models** — *Yuhang Dai et al.* ([link](http://arxiv.org/abs/2611.27963v1))
+> **Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training** — *Nan Chen et al.* ([link](http://arxiv.org/abs/2611.31166v1))
 
 💬 Quote of the day:
 > Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
