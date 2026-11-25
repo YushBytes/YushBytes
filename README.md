@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-24 (UTC)**
+📅 **2026-11-25 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training** — *Nan Chen et al.* ([link](http://arxiv.org/abs/2611.31166v1))
+> **Temporal Conditioning for Human Behavioral Cloning in Chess** — *Victor Dziwniel et al.* ([link](http://arxiv.org/abs/2611.33106v1))
 
 💬 Quote of the day:
-> Machine learning is the last invention humanity will ever need to make. — Nick Bostrom
+> In God we trust, all others bring data. — W. Edwards Deming
 
 <!--END_SECTION:live-->
 
