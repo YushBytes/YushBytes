@@ -42,13 +42,13 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-25 (UTC)**
+📅 **2026-11-26 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **Temporal Conditioning for Human Behavioral Cloning in Chess** — *Victor Dziwniel et al.* ([link](http://arxiv.org/abs/2611.33106v1))
+> **Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss** — *Thiago de Souza Lamenza et al.* ([link](http://arxiv.org/abs/2611.34818v1))
 
 💬 Quote of the day:
-> In God we trust, all others bring data. — W. Edwards Deming
+> It's not who has the best algorithm that wins, it's who has the most data. — Andrew Ng
 
 <!--END_SECTION:live-->
 
