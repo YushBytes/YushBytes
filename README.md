@@ -42,10 +42,10 @@ print(me.say_hi())
 ## 🔴 Live Feed *(auto-updated daily by a GitHub Action — see `scripts/update_readme.py`)*
 
 <!--START_SECTION:live-->
-📅 **2026-11-27 (UTC)**
+📅 **2026-11-28 (UTC)**
 
 📄 Today's random paper from arXiv:
-> **DocDUR-Net: Degradation-Aware Unified Document Image Restoration** — *Haowei Xu et al.* ([link](http://arxiv.org/abs/2611.34860v1))
+> **Attack Policy Selection can Mislead Monitor Evaluators** — *Charlie Griffin et al.* ([link](http://arxiv.org/abs/2611.34934v1))
 
 💬 Quote of the day:
 > In God we trust, all others bring data. — W. Edwards Deming
